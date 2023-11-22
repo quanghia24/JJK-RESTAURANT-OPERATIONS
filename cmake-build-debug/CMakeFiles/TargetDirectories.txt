@@ -1,0 +1,3 @@
+D:/uni_data/secondYear/DSA_shits/bigAssignmentNo2/initial/cmake-build-debug/CMakeFiles/initial.dir
+D:/uni_data/secondYear/DSA_shits/bigAssignmentNo2/initial/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/uni_data/secondYear/DSA_shits/bigAssignmentNo2/initial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
